@@ -99,7 +99,7 @@ export const Scoreboard = ({
               lineHeight: 1,
             }}
           >
-            {redTeam}
+            {redTeamConfig.displayName}
           </span>
         </div>
       </div>
@@ -188,7 +188,7 @@ export const Scoreboard = ({
               lineHeight: 1,
             }}
           >
-            {blueTeam}
+            {blueTeamConfig.displayName}
           </span>
         </div>
 

@@ -1,0 +1,96 @@
+﻿{
+  "matches": [
+    {
+      "start": 2,
+      "end": 5,
+      "redTeam": "Bullsharks",
+      "blueTeam": "Zeus",
+      "events": [
+        {
+          "time": 2,
+          "redTeam": 0,
+          "blueTeam": 0
+        },
+        {
+          "time": 4,
+          "redTeam": 1,
+          "blueTeam": 0
+        }
+      ]
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "redTeam": "bRatz",
+      "blueTeam": "Tigresses",
+      "events": [
+        {
+          "time": 7,
+          "redTeam": 0,
+          "blueTeam": 1
+        },
+        {
+          "time": 8,
+          "redTeam": 0,
+          "blueTeam": 2
+        },
+        {
+          "time":9,
+          "redTeam": 0,
+          "blueTeam": 3
+        }
+      ]
+    },
+    {
+      "start": 11,
+      "end": 18,
+      "redTeam": "Tiger Cubs",
+      "blueTeam": "Eagles",
+      "events": [
+        {
+          "time": 12,
+          "redTeam": 0,
+          "blueTeam": 0
+        },
+        {
+          "time": 13,
+          "redTeam": 1,
+          "blueTeam": 0
+        },
+        {
+          "time": 14,
+          "redTeam": 2,
+          "blueTeam": 0
+        },
+        {
+          "time": 15,
+          "redTeam": 2,
+          "blueTeam": 1
+        }
+      ]
+    },
+    {
+      "start": 93,
+      "end": 2838,
+      "redTeam": "Tigers",
+      "blueTeam": "Rats",
+      "events": [
+        {
+          "time": 138,
+          "redTeam": 0,
+          "blueTeam": 0
+        },
+        {
+          "time": 436,
+          "redTeam": 1,
+          "blueTeam": 0
+        },
+        {
+          "time": 791,
+          "redTeam": 2,
+          "blueTeam": 0
+        }
+      ]
+    }
+  ]
+}
