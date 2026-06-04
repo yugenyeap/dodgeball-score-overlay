@@ -7,3 +7,6 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+# Ignore any .mp4 files under the public directory (any subfolder)
+public/**/*.mp4
+
