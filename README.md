@@ -4,6 +4,10 @@ An automated sports broadcast overlay system built for the Brisbane Dodgeball Le
 
 This project synchronises recorded dodgeball footage with referee score-event timelines to generate rendered videos with dynamic scoreboards, team branding, and broadcast graphics.
 
+<img width="1091" height="615" alt="image" src="https://github.com/user-attachments/assets/62d1f490-656a-413b-8e50-fad0267cd3fb" />
+<img width="1090" height="612" alt="image" src="https://github.com/user-attachments/assets/3827990b-f4bd-4ec6-a791-77e5b80080be" />
+
+
 ## Features
 
 * Dynamic scoreboard overlays
