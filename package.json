@@ -7,12 +7,15 @@
   "private": true,
   "dependencies": {
     "@remotion/cli": "4.0.467",
+    "ffmpeg-static": "^5.3.0",
+    "fluent-ffmpeg": "^2.1.3",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "remotion": "4.0.467"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.467",
+    "@types/node": "^25.9.3",
     "@types/react": "19.2.7",
     "@types/web": "0.0.166",
     "eslint": "9.19.0",
@@ -24,6 +27,11 @@
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc && eslint-env node scripts",
-    "transform": "node scripts/transform-score-events.js"
+    "transform": "node scripts/transform-score-events.js",
+    "prepare-videos": "node scripts/prepareVideos.js",
+    "transform-timeline": "node scripts/transformTimeline.js",
+    "render-night": "node scripts/renderNight.js",
+    "restore-audio": "node scripts/restoreAudio.js",
+    "produce-night": "npm run prepare-videos && npm run transform && npm run render-night"
   }
 }

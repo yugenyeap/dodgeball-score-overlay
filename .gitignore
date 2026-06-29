@@ -10,3 +10,7 @@ out
 # Ignore any .mp4 files under the public directory (any subfolder)
 public/**/*.mp4
 
+# Ignore raw and render folders
+raw/
+renders/
+
